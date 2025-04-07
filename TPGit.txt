@@ -3,3 +3,4 @@ Hello bad World!
 Celui qui croyait au ciel
 # Ajout de commentaire dans le code
 
+Tous deux adoraient la belle (*)
